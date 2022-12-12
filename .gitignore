@@ -1,0 +1,5 @@
+test_output/
+*.txt
+.idea/
+*.java
+log_*.log
